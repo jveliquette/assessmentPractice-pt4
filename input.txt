@@ -1,0 +1,22 @@
+Date|TransactionID|ProductID|ProductName|ProductDescription|UserID|Quantity|Price
+2023-05-31|T12345|P101|iPhone 12|Latest iPhone model|U001|2|999.99
+2023-05-31|T12346|P102|Samsung Galaxy S21|Flagship Android phone|U002|1|899.99
+2023-05-31|T12347|P103|MacBook Pro|High-performance laptop|U003|1|1999.99
+2023-05-30|T12348|P104|iPad Air|Powerful tablet|U004|3|599.99
+2023-05-30|T12349|P105|AirPods Pro|Wireless earphones|U002|2|249.99
+2023-05-30|T12350|P106|Sony PlayStation 5|Next-gen gaming console|U005|1|499.99
+2023-05-29|T12351|P107|LG 55" OLED TV|Premium 4K TV|U006|1|1499.99
+2023-05-29|T12352|P108|Amazon Echo Dot|Smart speaker with Alexa|U007|2|49.99
+2023-05-28|T12353|P109|Dell XPS 15|Powerful laptop for professionals|U008|1|1799.99
+2023-05-28|T12354|P110|Canon EOS R5|Full-frame mirrorless camera|U009|1|3499.99
+2023-05-28|T12355|P111|Nintendo Switch|Versatile gaming console|U010|1|299.99
+2023-05-27|T12356|P112|Bose QuietComfort 35|Wireless noise-canceling headphones|U011|1|299.99
+2023-05-27|T12357|P113|GoPro Hero 9|Action camera|U012|2|449.99
+2023-05-27|T12358|P114|Microsoft Surface Pro 7|Versatile 2-in-1 laptop|U013|1|1299.99
+2023-05-26|T12359|P115|Fitbit Charge 4|Advanced fitness tracker|U014|3|149.99
+2023-05-26|T12360|P116|Google Pixel 6|High-end Android smartphone|U015|1|799.99
+2023-05-25|T12361|P117|Sony WH-1000XM4|Premium noise-canceling headphones|U016|1|349.99
+2023-05-25|T12362|P118|Lenovo ThinkPad X1 Carbon|Business ultrabook|U017|1|1599.99
+2023-05-25|T12363|P119|Samsung QLED 65" TV|QLED 4K TV with HDR|U018|1|1999.99
+2023-05-24|T12364|P120|Apple Watch Series 7|Advanced smartwatch|U019|2|399.99
+

@@ -1,0 +1,21 @@
+{
+    "name": "module-1-pexam-part-4",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.ts",
+    "type": "module",
+    "scripts": {
+        "start": "npm run build && node ./dist/index.js",
+        "build": "tsc",
+        "test": "npm run build && vitest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@tsconfig/node-lts": "^18.12.3",
+        "@types/node": "^20.4.5",
+        "typescript": "^5.1.6",
+        "vitest": "^0.33.0"
+    }
+}
